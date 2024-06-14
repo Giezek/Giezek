@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giezekarnoski
 - 👀 Eu tenho interesse em programação, ainda estou no começo
-- 🌱 Atualmente, sou professor de Pensamento Computacional
+- 🌱 Atualmente, sou professor de Pensamento Computacional, Programação e Ensino Religioso.
 - 
 <!---
 Giezek/Giezek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
